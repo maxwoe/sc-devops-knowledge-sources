@@ -1,5 +1,5 @@
 
-This is the accompanying repository for the following research papers:<br/>
+This is the accompanying repository for the following research paper:<br/>
 [DevOps for Ethereum Blockchain Smart Contracts](https://eprints.cs.univie.ac.at/7141/)<br/>
 
 ## Knowledge Sources
