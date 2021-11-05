@@ -1,6 +1,6 @@
 
 This is the accompanying repository for the following research papers:<br/>
-[DevOps for Ethereum Blockchain Smart Contracts](https://todo)<br/>
+[DevOps for Ethereum Blockchain Smart Contracts](https://eprints.cs.univie.ac.at/7141/)<br/>
 
 ## Knowledge Sources
 
